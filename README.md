@@ -33,7 +33,9 @@ Moreover, F3D includes the libf3d library, which provides a simple interface for
 3. After installation, launch the application. 🚀
 
 ## Usage Examples 📊
+![image](https://github.com/user-attachments/assets/53929b65-be1c-4ca4-870e-52c59c107344)
 
+![image](https://github.com/user-attachments/assets/1c03697a-d527-4a28-9cb6-80802a7f8211)
 
 
 
